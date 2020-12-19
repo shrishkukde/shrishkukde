@@ -1,5 +1,5 @@
 I have a passion for learning and love sharing my knowledge with others.  
-In case you need any help related to Android Development, then please feel free to submit a request [here](https://github.com/shrishkukde/shrishkukde/issues/new/choose).
+In case you need any help related to Android Development, then please feel free to post your questions and queries [here](https://github.com/shrishkukde/shrishkukde/issues/new/choose).
 
 My Digital Garden: :evergreen_tree: :sunflower:  
 I learn regularly through Google's Codelab and other resources available online.
