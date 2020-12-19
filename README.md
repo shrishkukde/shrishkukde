@@ -5,7 +5,7 @@ ___
 ## My Digital Garden: :evergreen_tree: :sunflower:  
 I learn regularly through Google's Codelab and other resources available online.
 I upload my practice projects to the [repository](https://github.com/shrishkukde?tab=repositories) along with official links to codelabs and documents.
-This way people can also learn new features and can implement those features in their own personal projects.
+This way people who visit my profile can also learn new features from the project I upload to the repository and they can implement those features in their own personal projects. After all sharing is caring :heart:
 
 ___
 
