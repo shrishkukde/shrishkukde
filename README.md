@@ -23,4 +23,4 @@ ___
 
 #### ✉ — Contact me at shrish.kukde@gmail.com
 
-Thank You for visiting my profile. You are awesome. See you soon !
+#### Thank You for visiting my profile. You are awesome. See you soon ! :blush:
