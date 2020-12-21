@@ -9,7 +9,7 @@ In case you need any help related to Android Development, then please feel free 
 ___
 ## My Digital Garden: :evergreen_tree: :sunflower:  
 I learn regularly through Google's Codelab and other resources available online.
-I upload my practice projects to the [repository](https://github.com/shrishkukde?tab=repositories) along with official links to codelabs, documents and cheat-sheets.
+I time to time publish my practice projects to the [repository](https://github.com/shrishkukde?tab=repositories) along with official links to codelabs, documents and cheat-sheets.
 This way people who visit my profile can also learn new features from the project I upload to the repository and they can implement those features in their own personal projects. After all sharing is caring :heart:
 
 ___
