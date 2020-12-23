@@ -3,8 +3,8 @@
 ## Hello 👋, I'm Shrish Vijay Kukde 
 
 
-I'm an Android Developer and I'm very passionate about my work.  
-I currently work at Capgemini.  
+I'm an Android Developer.  
+I'm passionate about my work and currently work at Capgemini.  
 When I'm not working, you can find me playing guitar, singing songs and spending time with my family and friends !  
 I have a passion for learning and love sharing my knowledge with others.  
 In case you need any help related to Android Development, then please feel free to post your questions and queries [here](https://github.com/shrishkukde/shrishkukde/issues/new/choose).
