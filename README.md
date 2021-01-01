@@ -11,7 +11,8 @@ When I'm not working, you can find me playing guitar, singing songs and spending
 I have a passion for learning and love sharing my knowledge with others.  
 In case you need any help related to Android Development, then please feel free to post your questions and queries [here](https://github.com/shrishkukde/shrishkukde/issues/new/choose).  
 
-### Secure Code Warrior Certified - White Belt in Kotlin
+### Secure Code Warrior Certified - White Belt in Kotlin :beginner:
+*Date Of Certification: 1st-January-2020*
 ___
 ## My Digital Garden: :evergreen_tree: :sunflower:  
 ![Image](https://img.shields.io/badge/Language-Kotlin-orange)  
