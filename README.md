@@ -34,5 +34,5 @@ ___
 ___
 ### My Stack Overflow Profile  
 I daily try to give back to the community and help the community by answering questions on Stack Overflow with :heart:
-<a href="https://stackoverflow.com/users/10183294/svk"><img src="https://stackoverflow.com/users/flair/10183294.png" width="208" height="58" alt="profile for SVK at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SVK at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>  
+<a href="https://stackoverflow.com/users/10183294/svk"><img src="https://stackoverflow.com/users/flair/10183294.png?theme=clean" width="208" height="58" alt="profile for SVK at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SVK at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>  
 ![Image](https://stackoverflow.design/assets/img/logos/so/logo-print.svg)
