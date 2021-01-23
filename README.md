@@ -1,5 +1,3 @@
-
-
 ![Image](https://github.com/shrishkukde/shrishkukde/blob/main/Shrish's_Profile_Banner.png)
 
 ## Hello 👋, I'm Shrish Vijay Kukde 
