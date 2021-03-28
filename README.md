@@ -25,12 +25,13 @@ ___
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shrishkukde&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrishkukde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#### ✉ — Contact me at shrish.kukde@gmail.com
-
-#### Thank You for visiting my profile. You are awesome. See you soon ! :blush:
 ___
 ### My Stack Overflow Profile  
 I daily try to give back to the community and help the community by answering questions on Stack Overflow with :heart:
 <a href="https://stackoverflow.com/users/10183294/svk"><img src="https://stackoverflow.com/users/flair/10183294.png?theme=clean" width="208" height="58" alt="profile for SVK at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SVK at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>  
 ![Image](https://stackoverflow.design/assets/img/logos/so/logo-print.svg)
+
+
+#### ✉ — Contact me at shrish.kukde@gmail.com
+
+#### Thank You for visiting my profile. You are awesome. See you soon ! :blush:
