@@ -32,6 +32,6 @@ I daily try to give back to the community and help the community by answering qu
 ![Image](https://stackoverflow.design/assets/img/logos/so/logo-print.svg)
 
 
-#### ✉ — Contact me at shrish.kukde@gmail.com
+<!--- #### ✉ — Contact me at shrish.kukde@gmail.com --->
 
 #### Thank You for visiting my profile. You are awesome. See you soon ! :blush
