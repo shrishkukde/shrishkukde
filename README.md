@@ -34,4 +34,4 @@ I daily try to give back to the community and help the community by answering qu
 
 <!--- #### ✉ — Contact me at shrish.kukde@gmail.com --->
 
-#### Thank You for visiting my profile. You are awesome. See you soon ! :blush
+#### Thank You for visiting my profile. You are awesome. See you soon ! :blush:
