@@ -4,7 +4,6 @@
 
 
 I'm an Android Developer.  
-I'm passionate about my work and currently work at Visa.  
   
 When I'm not working, you can find me playing guitar, singing songs and spending time with my family and friends !  
 I have a passion for learning and love sharing my knowledge with others.  
